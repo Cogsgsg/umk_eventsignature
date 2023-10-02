@@ -1,0 +1,189 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+.clearfix{
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+nav{
+    background-color:black;
+    
+}
+.fb-icon{
+    width: 50%;
+    float: left;
+}
+.fb-icon img{
+    width:20px ;
+    height: 20px;
+    padding: 2px;
+    border: 2px solid blue;
+}
+
+.git-icon{
+    width: 50%;
+    float: left;
+}
+.git-icon img{
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    border: 2px solid magenta ;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+}
+.box1{
+    background-color: blue;
+}
+.box1right{
+    width: 50%;
+    float: left;
+}
+.box1right img{
+    width: 100%;
+    height: 200px;
+}
+.box1left{
+    width: 50%;
+    float: left;
+}
+.box1left img{
+    width: 100%;
+    height: 200PX;
+}
+.goldballon{
+    background-color: blue;
+    text-align: center;
+    padding: 4px;
+    
+}
+.blueballon{
+    background-color: brown;
+    text-align: center;
+    padding: 4px;
+
+}
+.box2{
+    background-color: white;
+}
+.box2right{
+    background-color: white;
+    width: 25%;
+    float: left;
+}
+.box2center{
+    background-color: white;
+    width: 25%;
+    float: left;
+}
+.box2left{
+    background-color:white;
+    width:50%;
+    float:left;
+}
+.box3{
+    background-color: red;
+    padding-bottom: 10%;
+}
+.ballon1{
+    text-align: center;
+    background-color: goldenrod;
+}
+.ballon2{
+    text-align: center;
+    background-color: orangered;
+}
+.ballon3{
+    text-align: center;
+    background-color: aqua;
+}
+.btn2{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.button-box1{
+    background-color:brown ;
+    text-align: center;
+}
+.button-box2{
+    background-color: goldenrod;
+    text-align: center;
+}
+.button-box3{
+    background-color: aqua;
+    text-align: center;
+}
+.mp{
+    text-align: center;
+}
+.most-porpular{
+    background-color:black ;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.about{
+    text-align: center;
+    font-style: italic;
+    padding-left: 10px;
+    padding: 10px;
+    background-color: yellow;
+    color: white;
+}
+.aboutbox{
+    background-color: red;
+    width: 25px;
+    float: left;
+}
+.box3 img{
+    width: 50px;
+    height: 5opx;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.abt_out{
+    float: left;
+    background-color: red;
+}
+.footer{
+    background-color: rgb(39, 36, 36);
+}
+.footer1{
+    float: left;
+    width: 33.3333333333%;
+    background-color:rgb(39, 36, 36) ;
+}
+.fl1{
+    padding: 10px;
+    color: yellow;
+    background-color: 
+}
+.footer2{
+    float: left;
+    width: 33.3333333333%;
+    
+    background-color: rgb(39, 36, 36);
+}
+.fl2{
+    padding: 10px;
+    color: yellow;
+    background-color: 
+}
+.footer3{
+    float: left;
+    width: 33.3333333333%;
+    
+    background-color: rgb(39, 36, 36);
+}
+.fl3{
+    padding: 10px;
+    color: yellow;
+}
